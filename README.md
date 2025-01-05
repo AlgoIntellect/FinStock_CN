@@ -19,16 +19,19 @@
 | 平台       | 联系方式        |
 |------------|-----------------|
 | **微信**   | `pipipiger`     |
+| **公众号** | `易量智投`     |
 
 <img width="295" alt="image" src="https://github.com/user-attachments/assets/40497500-9d48-42a6-ae17-206919365988" />
 
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/6237cdac-e197-43e7-92ae-464964788649" />
 
 ---
 
 ### 添加微信说明：
 1. 搜索微信号：`pipipiger`。
 2. 或者扫描上方二维码添加我的微信。
-3. 添加时请备注“GitHub”以便我快速通过。
+3. 
+4. 添加时请备注“GitHub”以便我快速通过。
 
 ---
 
