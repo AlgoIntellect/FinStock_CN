@@ -9,8 +9,7 @@
 - **使用方法**:
   ```bash
   python stock_history_daily_Kdata.py
-  、、、
-  
+ 
 
 ## 📞 联系方式
 
