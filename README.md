@@ -21,10 +21,7 @@
 | **微信**   | `pipipiger`     |
 | **公众号** | `长桥投研`     |
 
-<img width="295" alt="image" src="https://github.com/user-attachments/assets/40497500-9d48-42a6-ae17-206919365988" />
-
-<img width="306" alt="image" src="https://github.com/user-attachments/assets/6237cdac-e197-43e7-92ae-464964788649" />
-
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/810ae6ad-428e-4e14-a233-bb91987e73bd" />
 
 ---
 
